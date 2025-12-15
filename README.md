@@ -1,0 +1,1 @@
+Recommendation system for ZEE that predicts user movie ratings using collaborative filtering, Pearson correlation, cosine similarity, and matrix factorization to enhance personalized content recommendations.
